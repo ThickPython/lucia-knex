@@ -1,3 +1,8 @@
+# Lucia Knex
+
+If you're looking at this from the Lucia-Knex page you'll see this. This fork just includes an adapter for lucia using Knex.
+Mostly created because I use knex and using that with Lucia would be really convenient.
+
 # Lucia
 
 Lucia is a simple and flexible user and session management library that provides an
