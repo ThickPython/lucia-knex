@@ -1,0 +1,23 @@
+{
+  "name": "adapter-knex",
+  "version": "1.0.0",
+  "description": "Knex adapter for Lucia",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "lucia",
+    "auth",
+    "knex",
+    "sql",
+    "adapter"
+  ],
+  "author": "rezmeplease",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^3.1.0",
+    "lucia": "^2.7.6",
+    "mysql": "^2.18.1"
+  }
+}
